@@ -1,0 +1,6 @@
+resources:
+    - apps
+    - core
+    - flux-system
+    - kube-system
+    - system
